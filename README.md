@@ -1,7 +1,4 @@
 # shellcode_exec
-learn Windows api
-
-details：https://goodnight-meow.blogspot.com/2020/02/cshellcode.html
 
 shellcoe1、shellcode4:use VirtualAlloc、CreateThread and WaitForSingleObject
 
